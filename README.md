@@ -1,22 +1,22 @@
-<h2> Hey there! I'm Aspen!</h2>
+<h2> Hey, there! I'm Aspen!</h2>
 
 <h3> 🌲 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Roblox developer with around 3m total place visits.
-- 🌱 &nbsp; Learning Game development in Unity.
-- ✍️ &nbsp; Practicing 3d modeling.
+- 💼 &nbsp; ROBLOX developer with over 3,000,000 total place visits.
+- 🌱 &nbsp; Learning game development in Unity.
+- ✍️ &nbsp; Practicing 3D modeling.
 - 🌍 &nbsp; Learning Finnish.
 
-<h3> 🛠 &nbsp;Tools I Use</h3>
+<h3> 🛠 &nbsp;Tools I use</h3>
 
 - 💻 &nbsp;
-  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
   
 - ⚙️ &nbsp;
-  ![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+  ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
   ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
   ![HyperTerm](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
 
@@ -26,7 +26,7 @@
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 <h3> 💻 &nbsp;Computer Spec List</h3>
- <b>Ryzen 9 3900XT<br>MSI B550-A Pro<br>Sapphire Nitro+ 5700XT<br> 80GB T-Force 3600MHZ RAM<br>Corsair RM850X</b>
+ <b>Ryzen 9 3900XT<br>MSI B550-A Pro<br>Sapphire Nitro + 5700XT<br> 80GB T-Force 3600MHZ RAM<br>Corsair RM850X</b>
 <br>
 
 <br/>
