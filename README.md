@@ -37,9 +37,3 @@
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<b> SkyblockSylveon#7408 
-</p>
