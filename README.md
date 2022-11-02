@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Aspen.</h2>
+<h2> Hey there! I'm Aspen!</h2>
 
-<h3> 👨🏻‍ &nbsp;About Me </h3>
+<h3> 🌲 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Roblox developer with around 3m total place visits.
 - 🌱 &nbsp; Learning Game development in Unity.
